@@ -1,6 +1,6 @@
 # Connect
 
-check out my own video conference app buit using flutter and firebase
+check out my own video conference app built using flutter and firebase.
 
 ## Getting Started
 
