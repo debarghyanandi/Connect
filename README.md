@@ -1,6 +1,6 @@
-# cloud_meeting
+# Connect
 
-A new Flutter project.
+check out my own video conference app buit using flutter and firebase
 
 ## Getting Started
 
